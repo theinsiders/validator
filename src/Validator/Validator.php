@@ -6,6 +6,8 @@
  * Time: 10:37
  */
 
+namespace Validator;
+
 class Validator
 {
     public function __construct()

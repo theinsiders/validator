@@ -1,4 +1,4 @@
-
+.idea
+vendor/
 .gitignore
-.idea/inspectionProfiles/
-.idea/vcs.xml
+

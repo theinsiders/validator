@@ -19,4 +19,9 @@ class Validator
     {
         return 'Hello validator';
     }
+
+    public function test($data)
+    {
+
+    }
 }
